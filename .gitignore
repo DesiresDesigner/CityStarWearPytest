@@ -2,3 +2,4 @@
 tests/.pytest_cache
 venv/
 conftest.py
+.DS_STORE
